@@ -60,7 +60,9 @@ public class FrmLogin extends JFrame {
 					FrmLogin frame = new FrmLogin();
 					frame.setLocationRelativeTo(null);
 					frame.setVisible(true);
+					//test comment
 					
+					JOptionPane.showMessageDialog(null, "Test123");
 					
 					
 				} catch (Exception e) {
