@@ -88,7 +88,6 @@ public class frmMainMenu extends JFrame {
 	JDateChooser dateTo;
 	JLabel statusLabel = new JLabel();
 	private final Action action = new SwingAction();
-	//test 123
 	
 
 	/**
