@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Database"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/rs2xml.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/UCanAccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/UCanAccess/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/UCanAccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/UCanAccess/jackcess-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lklllagas/Documents/LjournLlagasProjects/OR Monitoring System/#reference files/UCanAccess/ucanaccess-3.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
